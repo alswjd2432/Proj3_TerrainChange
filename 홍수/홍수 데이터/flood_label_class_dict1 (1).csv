@@ -1,0 +1,7 @@
+name,r,g,b
+building,255,0,0
+road,45,45,45
+parking,255,90,0
+flood,111,63,12
+river,0,0,255
+nothing,255,255,0
