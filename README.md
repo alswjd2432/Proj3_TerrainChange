@@ -24,8 +24,7 @@
 1. UNet
 2. UNet++
 3. DeepLabV3
-4. PSPNet
-<br>
+4. PSPNet <br>
 (github 코드에는 unet을 사용한 코드만 있지만, segmentation_models_pytorch의 내장모델을 이용했기 때문에
 model 부분의 unet을 변경하면 원하는 모델로 학습할 수 있다.)
 
