@@ -6,6 +6,20 @@
 - 인조 홍수 항공 데이터 : https://www.kaggle.com/datasets/samiwood/synthetic-flood-imagery-for-image-segmentation
 - 자체 제작 건물 붕괴 데이터 : /지형변화+건물붕괴/건물붕괴_512 폴더에 존재
 
+<제주도 항공위성 데이터 예시>
+<br>
+![image](https://github.com/alswjd2432/Proj3_TerrainChange/assets/95081711/348d9da6-a3b4-4047-875a-123879482c84)
+![image](https://github.com/alswjd2432/Proj3_TerrainChange/assets/95081711/4266745a-bbd3-4302-8b63-1efa1169e519)
+
+<인조 홍수 항공 데이터 예시>
+<br>
+![image](https://github.com/alswjd2432/Proj3_TerrainChange/assets/95081711/863f205c-79cd-4973-9016-64752534dc41)
+
+<자체 제작 건물 붕괴 데이터 예시 (라벨데이터 없음)>
+<br>
+![image](https://github.com/alswjd2432/Proj3_TerrainChange/assets/95081711/1dd6ac16-f100-415d-bada-04e382b6cf3c)
+
+
 ### 사용한 모델
 1. UNet
 2. UNet++
